@@ -7,4 +7,5 @@ https://github.com/levalencia/DataScienceProjects/blob/main/WineClassification/W
 
 
 Recommender Systems
-1. Recommender system for internal tranings
+1. Recommender system for  tranings
+https://github.com/levalencia/DataScienceProjects/blob/main/RecommenderSystemsTraining/TrainingRecomendations.ipynb
